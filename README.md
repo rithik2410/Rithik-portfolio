@@ -1,4 +1,4 @@
-https://rithik-portfolio-kappa.vercel.app/
+https://rithik-portfolio-new.vercel.app/
 
 # Rithik's Portfolio Website
 
